@@ -1,0 +1,70 @@
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 400px;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea00c2d0-a66c-4df7-a968-d60c67552bb5/dcn8g96-1454e9c2-5ea6-4f7e-a292-60468c4a1efd.jpg/v1/fill/w_1032,h_774,q_70,strp/the_seven_deadly_sins_greed_by_aquasixio_dcn8g96-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvZWEwMGMyZDAtYTY2Yy00ZGY3LWE5NjgtZDYwYzY3NTUyYmI1XC9kY244Zzk2LTE0NTRlOWMyLTVlYTYtNGY3ZS1hMjkyLTYwNDY4YzRhMWVmZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5j_CHFZPZBVtthDTS7vIrx_nka_knmr489P5m4r7OgE");
+  background-color: #000000;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.valor {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: column;
+}
+.page-logo {
+  width: 150px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+select {
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  background-color: lightgray;
+}
